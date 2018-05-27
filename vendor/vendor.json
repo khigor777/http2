@@ -43,6 +43,16 @@
 			"path": "github.com/golang/protobuf/protoc-gen-go/plugin",
 			"revision": "3a3da3a4e26776cc22a79ef46d5d58477532dede",
 			"revisionTime": "2018-05-22T22:42:51Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "dfa909b99c79129e1100513e5cd36307665e5723",
+			"revisionTime": "2018-05-23T21:06:46Z"
+		},
+		{
+			"path": "google.golang.org/grps",
+			"revision": ""
 		}
 	],
 	"rootPath": "github.com/khigor777/http2"
